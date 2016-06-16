@@ -1,0 +1,12 @@
+.git
+.hg
+.svn
+.venv
+
+.DS_Store
+
+*.pyc
+*.pyo
+
+*.sublime-project
+*.sublime-workspace

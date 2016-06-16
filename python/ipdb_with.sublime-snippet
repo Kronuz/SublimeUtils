@@ -1,0 +1,10 @@
+<!-- See http://www.sublimetext.com/docs/snippets for more information -->
+<snippet>
+    <content><![CDATA[import ipdb
+with ipdb.launch_ipdb_on_exception():
+    ${1}
+]]></content>
+    <tabTrigger>ipdb_with</tabTrigger>
+    <scope>source.python</scope>
+    <description>ipdb on exception debug tool</description>
+</snippet>

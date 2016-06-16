@@ -1,0 +1,4 @@
+{
+	"cmd": ["/usr/local/bin/msgfmt", "--check-format", "-o", "$file_path/$file_base_name.mo", "$file"],
+    "selector": "source.po"
+}
