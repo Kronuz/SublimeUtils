@@ -12,7 +12,7 @@
         <key>keyEquivalent</key>
         <string>^~H</string>
         <key>name</key>
-        <string>http</string>
+        <string>Http</string>
         <key>patterns</key>
         <array>
             <dict>
@@ -63,7 +63,7 @@
             </dict>
             <dict>
                 <key>begin</key>
-                <string>^\s*(?=\<\S)</string>
+                <string>^\s*(?=\&lt;\S)</string>
                 <key>name</key>
                 <string>http.request.body.xml</string>
                 <key>end</key>
